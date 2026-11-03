@@ -29,15 +29,15 @@ Ao longo dos estudos, são abordados conceitos como:
 ### Exercícios 001 a 030 — Fundamentos de Python
 
 | Exercícios | Conteúdos abordados                                                        |
-|---|----------------------------------------------------------------------------|
-| 001–004 | Entrada e saída de dados, variáveis, tipos primitivos e análise de strings |
-| 005–010 | Operações aritméticas, cálculos, conversões e formatação de resultados     |
-| 011–015 | Aplicações de cálculos matemáticos, porcentagens e conversões              |
-| 016–018 | Módulo `math`, truncamento, hipotenusa e trigonometria                     |
-| 019–021 | Módulos `random`, `pygame` e `time`                                        |
-| 022–027 | Manipulação de strings, métodos de texto, índices e listas                 |
-| 028–030 | Estruturas condicionais (if/else), comparações e operador de módulo        |
-
+|------------|----------------------------------------------------------------------------|
+| 001–004    | Entrada e saída de dados, variáveis, tipos primitivos e análise de strings |
+| 005–010    | Operações aritméticas, cálculos, conversões e formatação de resultados     |
+| 011–015    | Aplicações de cálculos matemáticos, porcentagens e conversões              |
+| 016–018    | Módulo `math`, truncamento, hipotenusa e trigonometria                     |
+| 019–021    | Módulos `random`, `pygame` e `time`                                        |
+| 022–027    | Manipulação de strings, métodos de texto, índices e listas                 |
+| 028–036    | Introdução às estruturas condicionais (if/else)                            |
+| 031–040    | Estruturas condicionais com múltiplas alternativas (if/elif/else)          |
 Os exercícios desta etapa foram organizados e comentados para facilitar a compreensão dos conceitos utilizados, preservando a lógica original dos códigos.
 
 ## 🎯 Objetivo
