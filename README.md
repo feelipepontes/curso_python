@@ -37,7 +37,7 @@ Ao longo dos estudos, são abordados conceitos como:
 | 019–021    | Módulos `random`, `pygame` e `time`                                        |
 | 022–027    | Manipulação de strings, métodos de texto, índices e listas                 |
 | 028–036    | Introdução às estruturas condicionais (if/else)                            |
-| 031–040    | Estruturas condicionais com múltiplas alternativas (if/elif/else)          |
+| 037–040    | Estruturas condicionais com múltiplas alternativas (if/elif/else)          |
 Os exercícios desta etapa foram organizados e comentados para facilitar a compreensão dos conceitos utilizados, preservando a lógica original dos códigos.
 
 ## 🎯 Objetivo
